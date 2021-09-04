@@ -1,0 +1,42 @@
+body
+{
+	background: rgb(131,58,180);
+background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(33,0,250,1) 17%, rgba(87,110,121,1) 23%, rgba(10,231,55,1) 32%, rgba(41,187,87,1) 32%, rgba(5,247,61,1) 35%, rgba(0,255,57,1) 40%, rgba(36,171,52,1) 44%, rgba(26,195,53,1) 48%, rgba(32,192,53,1) 56%, rgba(67,172,55,1) 57%, rgba(148,174,61,1) 66%, rgba(77,127,113,1) 68%, rgba(164,170,57,1) 74%, rgba(250,212,0,1) 80%, rgba(255,164,0,1) 85%, rgba(253,103,44,1) 88%, rgba(252,69,69,1) 100%);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(60, 255, 0);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(9, 255, 0);
+border-radius: 10px;
+border-top: 10px solid #9be02c;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#login 
+{
+	background-color: rgb(179, 255, 0);
+	color: rgb(0, 183, 255);
+}
